@@ -5,7 +5,6 @@ gem 'unicorn'
 
 group :development do
   gem 'shotgun'
-  gem 'mr-sparkle'
 end
 
 # gem 'debugger'

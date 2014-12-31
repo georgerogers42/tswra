@@ -10,10 +10,10 @@ subtitle: "The South Will Rise Again!"
 #
 # http://www.atomenabled.org/developers/syndication/atom-format-spec.php#element.feed
 #
-# author:
-#   name: Your Name
-#   uri: http://yourhomepage.com
-#   email: you@yourdomain.com
+author:
+  name: George Rogers
+  uri: http://tswra.heroku.com
+  email: grogers385@gmail.com
 
 # You can stick with the default look and feel, or use a theme. Themes are
 # easy to create or install, and live inside the themes directory. You
@@ -26,7 +26,7 @@ subtitle: "The South Will Rise Again!"
 # site's short name here. A comment form will automatically be added to
 # the bottom of your pages.
 #
-# disqus_short_name: mysite
+disqus_short_name: tswra
 
 # content
 #     The root directory where nesta will look for your article files.
