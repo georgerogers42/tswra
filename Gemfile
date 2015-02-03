@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-ruby 'rbx-2.5.2'
+ruby '2.1.0-rbx'
 
 gem 'nesta', '0.10.0'
 gem 'unicorn'
